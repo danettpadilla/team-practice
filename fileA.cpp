@@ -5,6 +5,7 @@ using namespace std;
 void functionA() {
     // Developer1: Change this message
     cout << "Function A: Hello from Developer1!" << endl;
+    cout << "This was edited by developer Rub";
 
 	int a = 5, b = 10;
 
@@ -18,6 +19,10 @@ void functionA() {
 	// Developer5: Modify this output to use the subtract calculation
 
     cout << "Sum: " << (a + b) << endl;
+
+    for (int i = 0; i < 100; i++){
+        cout << "HOLA MUNDO BEEP BOOP!!!" << endl;
+    }
 }
 
 int main() {
