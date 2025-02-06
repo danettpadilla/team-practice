@@ -13,6 +13,8 @@ int factorial(int n) {
     return results;
 }
 
+cout << "changes";
+
 int main() {
     int number
 	//Developer2: Ask for user input (a number)
