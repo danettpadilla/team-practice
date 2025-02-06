@@ -18,6 +18,10 @@ void functionA() {
 	// Developer5: Modify this output to use the subtract calculation
 
     cout << "Sum: " << (a + b) << endl;
+
+    for (int i = 0; i < 100; i++){
+        cout << "HOLA MUNDO BEEP BOOP!!!" << endl;
+    }
 }
 
 int main() {
